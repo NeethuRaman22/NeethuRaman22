@@ -1,45 +1,56 @@
 <h1 align="center">Hi, I'm Neethu</h1>
 
-<p align="center">
-  <b>Data Analyst</b> • Data-Driven Insights • Predictive Thinking
-</p>
+<h3 align="center">Data Analyst | Data-Driven Insights & Predictive Analytics</h3>
 
 <p align="center">
-I enjoy working with data- exploring it, understanding it, and seeing what it actually tells us.
+  <img src="https://img.shields.io/badge/Data%20Analysis-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge" />
 </p>
 
 ---
 
 ## About Me
 
-- Interested in data analysis and real-world problem solving  
-- Experience working with machine learning models for prediction  
-- Focused on understanding patterns, trends, and insights in data  
-- Currently building strong foundations in Python and data tools  
+- Strong interest in **Data Analysis** and **Data-Driven Decision Making**
+- Experience working with **Machine Learning models for prediction**
+- Focused on **data cleaning, visualization, and interpretation**
+- Currently strengthening my skills in **Python, SQL, and Data Analytics tools**
 
 ---
 
-## Skills
+## Skills & Tools
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+<p>
+  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-007ACC?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-**Tools**  
-![Excel](https://img.shields.io/badge/Excel-blue?style=for-the-badge&logo=microsoft-excel)
-![Jupyter](https://img.shields.io/badge/Jupyter-blue?style=for-the-badge&logo=jupyter)
+**Libraries:** Pandas, NumPy, Matplotlib  
+**Concepts:** Data Cleaning, EDA, Data Visualization, Model Evaluation, Predictive Analytics  
 
-**Concepts**  
-Data Cleaning • EDA • Data Visualization • Model Evaluation
+---
+
+## What I Do
+
+- Analyze datasets to uncover meaningful insights
+- Identify patterns and trends in real-world data
+- Create visualizations to communicate findings clearly
+- Work on prediction-based problems using Machine Learning techniques
+- Compare models to improve performance and accuracy
 
 ---
 
 ## Projects
 
-Projects will be added soon, focusing on data analysis and predictive modeling.
+Projects will be added soon — focusing on real-world data analysis, visualization, and predictive modeling.
 
 ---
 
-## Connect
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR-LINK)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeethuRaman22&show_icons=true&theme=transparent" />
+</p>
