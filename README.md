@@ -1,4 +1,7 @@
-## Hi there 👋
+## # Hi, I'm Neethu 👋
+
+💻 Passionate about Python, AI, and Machine Learning  
+🚀 Building smart and useful projects  
 
 <!--
 **NeethuRaman22/NeethuRaman22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
