@@ -1,64 +1,45 @@
-<h1 align="center">Hi 👋, I'm Neethu</h1>
-
-<h3 align="center">Data Analyst | Data-Driven Insights & Predictive Analytics</h3>
+<h1 align="center">Hi, I'm Neethu</h1>
 
 <p align="center">
-📊 Passionate about data analysis, visualization, and problem-solving <br>
-📈 Skilled in extracting actionable insights from real-world data <br>
-🚀 Continuously building data-driven solutions and improving analytical skills <br>
-🧠 Experience with Machine Learning models for predictive analysis
+  <b>Data Analyst</b> • Data-Driven Insights • Predictive Thinking
 </p>
-
----
-
-## 🚀 About Me
-
-- 📊 Strong interest in **Data Analysis and Data-Driven Decision Making**
-- 🧠 Experience working with **Machine Learning models for prediction**
-- 🔍 Skilled in analyzing data and identifying patterns and trends
-- 📈 Focused on improving insights through **data cleaning, visualization, and interpretation**
-- 🌱 Currently strengthening my skills in **Python, SQL, and Data Analytics tools**
-
----
-
-## 🛠️ Skills & Tools
-
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Matplotlib  
-- **Tools:** Excel, Jupyter Notebook, Git, GitHub, VS Code  
-- **Concepts:** Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Model Evaluation, Predictive Analytics  
-
----
-
-## 📊 What I Do
-
-- Analyze datasets to uncover meaningful insights  
-- Clean and prepare data for analysis  
-- Create visualizations to communicate findings clearly  
-- Work on prediction-based problems using Machine Learning techniques  
-- Compare models to improve performance and accuracy  
-
----
-
-## 🚀 Projects
-
-Projects will be added soon — focusing on real-world data analysis, visualization, and predictive modeling.
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeethuRaman22&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeethuRaman22&theme=tokyonight" />
+I enjoy working with data—exploring it, understanding it, and seeing what it actually tells us.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## About Me
 
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+- Interested in data analysis and real-world problem solving  
+- Experience working with machine learning models for prediction  
+- Focused on understanding patterns, trends, and insights in data  
+- Currently building strong foundations in Python and data tools  
+
+---
+
+## Skills
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+**Tools**  
+![Excel](https://img.shields.io/badge/Excel-blue?style=for-the-badge&logo=microsoft-excel)
+![Jupyter](https://img.shields.io/badge/Jupyter-blue?style=for-the-badge&logo=jupyter)
+
+**Concepts**  
+Data Cleaning • EDA • Data Visualization • Model Evaluation
+
+---
+
+## Projects
+
+Projects will be added soon, focusing on data analysis and predictive modeling.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR-LINK)
