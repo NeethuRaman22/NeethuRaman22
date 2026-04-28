@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I enjoy working with data—exploring it, understanding it, and seeing what it actually tells us.
+I enjoy working with data- exploring it, understanding it, and seeing what it actually tells us.
 </p>
 
 ---
